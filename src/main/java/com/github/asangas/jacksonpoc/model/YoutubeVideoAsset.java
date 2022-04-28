@@ -1,4 +1,4 @@
-package au.com.reece.poc.model;
+package com.github.asangas.jacksonpoc.model;
 
 public class YoutubeVideoAsset extends Asset {
     public String thumbnail;

@@ -18,7 +18,7 @@ The following extra annotations were used:
 1. `@JsonSubTypes`
 2. `@JsonTypeInfo`
 
-Refer to the class `au.com.reece.poc.model.Asset` on how the above annotations have been used, and `AssetTest` for the unit tests.
+Refer to the class `com.github.asangas.jacksonpoc.model.Asset` on how the above annotations have been used, and `AssetTest` for the unit tests.
 
 The serialised output of an array of `Asset`s would look like:
 ```

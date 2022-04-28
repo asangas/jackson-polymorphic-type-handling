@@ -1,4 +1,4 @@
-package au.com.reece.poc.model;
+package com.github.asangas.jacksonpoc.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonSubTypes;

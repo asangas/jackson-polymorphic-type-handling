@@ -1,6 +1,10 @@
-package au.com.reece.poc.model;
+package com.github.asangas.jacksonpoc.model;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.github.asangas.jacksonpoc.model.Assets;
+import com.github.asangas.jacksonpoc.model.PDFAsset;
+import com.github.asangas.jacksonpoc.model.UnknownFormatAsset;
+import com.github.asangas.jacksonpoc.model.YoutubeVideoAsset;
 import org.junit.Test;
 
 import static org.hamcrest.CoreMatchers.is;

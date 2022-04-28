@@ -1,4 +1,4 @@
-package au.com.reece.poc.model;
+package com.github.asangas.jacksonpoc.model;
 
 public abstract class FileAsset extends Asset {
     public String path;
